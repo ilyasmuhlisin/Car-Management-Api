@@ -1,18 +1,13 @@
-# Binar: Express.js
-
-Repository ini ditujukan sebagai boilerplate dalam membuat sebuah HTTP Server menggunakan Express.js
-Repository ini menggunakan Service Repository Pattern, yang artinya di dalam repository ini terdapat modul model, controller, service, dan repository.
-
-# Binar FSW-Challenge-6
+# binar-academy-challenge-5
 
 ## Superadmin
 
-**Email: amosilangit@gmail.com**
+**Email: ilyasmhlsn@gmail.com**
 
-**Password: eos600dx**
+**Password: qwerty123**
 
 ## Open API Documentation
 
 ```http
-GET http://localhost:5000/api/docs
+https://documenter.getpostman.com/view/17478487/UyxhoSvT
 ```
